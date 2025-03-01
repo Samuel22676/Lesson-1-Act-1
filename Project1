@@ -5,23 +5,23 @@
             <table border="5">
                 <tr>
                     <th>Subjects</th>
-                    <th>Coding Apps</th>
                     <th>Games</th>
+                    <th>Coding Platforms</th>
                 </tr>
                 <tr>
                     <th>Maths</th>
-                    <th>Scratch</th>
                     <th>Minecraft</th>
+                    <th>Scratch</th>
                 </tr>
                 <tr>
                     <th>English</th>
-                    <th>Visual Studio</th>
                     <th>Mario Kart</th>
+                    <th>Thunkable</th>
                 </tr>
                 <tr>
                     <th>Computer</th>
-                    <th>Turbowarp</th>
                     <th>Geometry Dash</th>
+                    <th>Codepen.io</th>
                 </tr>
             </table>
         </body>
