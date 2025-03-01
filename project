@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Getting Familiar with Tables</title>
+        <body>
+            <table border="5">
+                <tr>
+                    <th>Subjects</th>
+                    <th>Coding Apps</th>
+                    <th>Games</th>
+                </tr>
+                <tr>
+                    <th>Maths</th>
+                    <th>Scratch</th>
+                    <th>Minecraft</th>
+                </tr>
+                <tr>
+                    <th>English</th>
+                    <th>Visual Studio</th>
+                    <th>Mario Kart</th>
+                </tr>
+                <tr>
+                    <th>Computer</th>
+                    <th>Turbowarp</th>
+                    <th>Geometry Dash</th>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
